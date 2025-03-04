@@ -1,5 +1,7 @@
 # scrapeAF
 
+*This project has been depreciated in favour of [HLAfreq](https://github.com/BarinthusBio/HLAfreq)*.
+
 The aim of this tool is to be able to estimate the HLA allele
 frequencies at large multi population scale, e.g. globally.
 Scrape allele frequency data from
